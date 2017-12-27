@@ -16,7 +16,7 @@
         "geometry": {"type": "Point", "coordinates": [45.04,48.76]},
           "properties": {"Name":"<a href='' target='_blank'>Detectia 03:32:00 UTC</a>"}
       },
-      { "type": "LineString", "coordinates": [[22.8850633,45.6134068], [45.04,48.76] },
-      { "type": "LineString", "coordinates": [[25.9625392,45.0027304], [45.04,48.76] }       
+      { "type": "LineString", "coordinates": [[22.8850633,45.6134068], [45.04,48.76]] },
+      { "type": "LineString", "coordinates": [[25.9625392,45.0027304], [45.04,48.76]]}       
     ]
 }

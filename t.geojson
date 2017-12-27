@@ -1,0 +1,13 @@
+{ "type": "FeatureCollection",
+    "features": [
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [45.75,48.57]},
+          "properties": {"Name":"<a href='' target='_blank'>Poligonul Kapustin Yar</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [45.04,48.76]},
+          "properties": {"Name":"<a href='' target='_blank'>Detectia 03:32:00 UTC</a>"}
+      }
+        
+    ]
+}

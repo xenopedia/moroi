@@ -1,6 +1,14 @@
 { "type": "FeatureCollection",
     "features": [
       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [22.8850633,45.6134068]},
+          "properties": {"Name":"<a href='' target='_blank'>Berthelot</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [25.9625392, 45.0027304]},
+          "properties": {"Name":"<a href='' target='_blank'>Păulești</a>"}
+      },
+      { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [45.767,48.643]},
           "properties": {"Name":"<a href='' target='_blank'>Cosmodromul Kapustin Yar</a>"}
       },

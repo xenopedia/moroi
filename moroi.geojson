@@ -23,6 +23,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [26.09508,44.41058]},
           "properties": {"Name":"<a href='https://observer.astro.ro/moroi-data/moroi-6.png' target='_blank'>București</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [23.8744526,47.1556528]},
+          "properties": {"Name":"<a href='https://observer.astro.ro/moroi-data/moroi-7.png' target='_blank'>Dej</a>"}
       }
         
     ]

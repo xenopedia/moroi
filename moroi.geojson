@@ -35,6 +35,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [27.6716757, 46.2308469]},
           "properties": {"Name":"<a href='https://observer.astro.ro/moroi-data/moroi-9.png' target='_blank'>Barlad</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [21.7133183, 45.3757458]},
+          "properties": {"Name":"<a href='https://observer.astro.ro/moroi-data/moroi-10.png' target='_blank'>Bocșa</a>"}
       }
         
     ]

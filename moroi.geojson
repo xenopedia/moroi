@@ -44,7 +44,10 @@
         "geometry": {"type": "Point", "coordinates": [27.252629, 47.054442]},
           "properties": {"Name":"<a href='https://observer.astro.ro/moroi-data/moroi-11.png' target='_blank'>Mădârjac</a>"}
       }
-        
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [26.9041865, 46.5656534]},
+          "properties": {"Name":"<a href='https://observer.astro.ro/moroi-data/moroi-12.png' target='_blank'>Bacau</a>"}
+      }
     ]
 }
 

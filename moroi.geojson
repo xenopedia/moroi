@@ -47,6 +47,14 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [26.9041865, 46.5656534]},
           "properties": {"Name":"<a href='https://observer.astro.ro/moroi-data/moroi-12.png' target='_blank'>Bacau</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [26.9041865, 46.5656534]},
+          "properties": {"Name":"<a href='https://observer.astro.ro/moroi-data/moroi-13.png' target='_blank'>Suceava</a>"}
+      },
+        { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [26.9041865, 46.5656534]},
+          "properties": {"Name":"<a href='https://observer.astro.ro/moroi-data/moroi-14.png' target='_blank'>Baia Mare</a>"}
       }
       ]
 }
